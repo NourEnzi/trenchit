@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Trench-It CLI",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Terminal-style commands to force deep technical responses from AI models.",
   "permissions": ["activeTab"],
   "content_scripts": [
