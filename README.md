@@ -14,7 +14,7 @@ Terminal-style commands to force deep technical responses and eliminate AI model
 
 Since this extension is open-source and lightweight, you can install it locally in less than 30 seconds:
 
-1. **Download:** Click [here to download the repository as a ZIP file](../../archive/refs/heads/trenchit-main.zip) (or clone the repo) and extract the files into a folder on your computer.
+1. **Download:** Click [here to download the extension as a ZIP file](https://github.com/NourEnzi/trenchit/archive/refs/heads/main.zip)...
 2. **Open Extensions Page:** 
    - In Google Chrome, type `chrome://extensions/` in the address bar.
    - In Microsoft Edge, type `edge://extensions/`.
