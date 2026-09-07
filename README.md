@@ -7,6 +7,7 @@ Terminal-style commands to force deep technical responses and eliminate AI model
 - **`/trench.raw`**: Drops all conversational filler, apologies, and generic introductions.
 - **`/trench.arch`**: Engages Senior Systems Engineer mode, focusing on edge cases, data structures, and markdown tables.
 - **`/trench.biz`**: Delivers strict actionable items and KPIs in structured bullet points.
+- **`/trench.blog`**: Acts as a Senior Technical Editor to ruthlessly evaluate article drafts for technical depth, tone, structure, and actionability, providing structured feedback for an enterprise IT audience.
 
 ---
 
